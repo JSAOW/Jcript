@@ -10,3 +10,4 @@ This creates 2 branching paths that you can split into data "bits" that could be
 [The top part of the page is just me imagining flipping every second card to isolate a "data bit"]
 Anyway thats it for now. Feel free to program a way to use this or add ideas in this README! (will check every once in a while)
 -/Jorps
+![IMG_0064](https://github.com/user-attachments/assets/1308fc48-cacb-4185-8ac1-cac3c051bf12)
